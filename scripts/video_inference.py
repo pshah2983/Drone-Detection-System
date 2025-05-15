@@ -56,4 +56,4 @@ if __name__ == "__main__":
     #process_video(use_webcam=True)
     
     # For video file
-    process_video("drone testing video.mp4")
+    process_video("C:/Users/DELL/Desktop/DS Projects/Drone Detection System/Testing Videos/drone testing video.mp4")
