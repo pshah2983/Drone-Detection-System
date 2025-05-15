@@ -1,0 +1,7 @@
+numpy
+opencv-python
+tensorflow
+torch
+torchvision
+onnxruntime
+matplotlib

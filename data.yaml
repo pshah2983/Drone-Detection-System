@@ -1,0 +1,7 @@
+path: C:\Users\DELL\Desktop\DS Projects\Drone Detection System\drone_dataset_yolo  # dataset root dir
+train: train/images  # train images
+val: val/images  # val images
+
+# Classes
+names:
+  0: drone
